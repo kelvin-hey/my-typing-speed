@@ -12,7 +12,7 @@ Este repositório contém o <a href="https://10fastfingers.com/user/2142483/">re
 <img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/wpm.png"></a>
 
 <p>
-  <b>Maior:</b> 101 WPM <br>
+  <b>Maior:</b> 103 WPM <br>
   <b>Média:</b> 88 WPM  <br>
   <b>Menor:</b> 77 WPM  <br>
 </p>
