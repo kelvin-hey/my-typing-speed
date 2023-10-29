@@ -1,18 +1,22 @@
 <h2 align="center"><b>O quão rápido posso digitar?</b></h2>
 
 <p align="center">
-  <img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/wpm_result.png"></a>
+  <img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/keyboard.jpeg"></a>
 </p>
 
 ### Descrição
-Este repositório contém o <a href="https://10fastfingers.com/user/2142483/">registro</a> da minha velocidade de digitação.
+Este repositório contém o <a href="https://10fastfingers.com/user/2142483/">registro</a> da minha velocidade de digitação. Quando estou entediado gosto de ficar digitando...
 
 ### Média de palavras digitadas por minuto
 
-<img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/wpm.png"></a>
+<img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/wpm_result.png"/> 
+
+### Gráfico
+
+<img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/wpm.png"/>
 
 <p>
-  <b>Maior:</b> 103 WPM <br>
+  <b>Maior:</b> 104 WPM <br>
   <b>Média:</b> 88 WPM  <br>
   <b>Menor:</b> 77 WPM  <br>
 </p>
