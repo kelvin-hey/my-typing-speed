@@ -1,7 +1,5 @@
-<h2 align="center"><b>O quão rápido posso digitar?</b></h2>
-
 <p align="center">
-  <img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/keyboard.jpeg"></a>
+  <img src="https://github.com/kelvin-hey/my-typing-speed/blob/main/wall.png"></a>
 </p>
 
 ### Descrição
