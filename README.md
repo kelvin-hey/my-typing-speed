@@ -18,4 +18,4 @@ Este repositório contém o <a href="https://10fastfingers.com/user/2142483/">re
   <b>Menor:</b> 77 WPM  <br>
 </p>
 
-<a href="https://www.youtube.com/watch?v=C8-ECIYGAPU">Saiba mais</a>
+👉 <a href="https://www.youtube.com/watch?v=C8-ECIYGAPU">Saiba mais</a>
