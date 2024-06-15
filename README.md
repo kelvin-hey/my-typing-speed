@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="128px" src="https://github.com/kelvin-hey/my-typing-speed/banner.png"/>
+  <img height="128px" src="https://github.com/kelvin-hey/my-typing-speed/blob/main/banner.png"/>
 </p>
 
 <p align="center">
